@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\macpl\desktop\studia\4 semestr\moje\metody numeryczne\projekt\projekt 1\macd\macd\source.cpp(50): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\macpl\desktop\studia\4 semestr\moje\metody numeryczne\projekt\projekt 1\macd\macd\source.cpp(99): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\macpl\desktop\studia\4 semestr\moje\metody numeryczne\projekt\projekt 1\macd\macd\source.cpp(106): warning C4018: '<': signed/unsigned mismatch
+  macd.vcxproj -> C:\Users\macpl\Desktop\studia\4 semestr\Moje\Metody numeryczne\Projekt\Projekt 1\macd\macd\Debug\macd.exe
+  macd.vcxproj -> C:\Users\macpl\Desktop\studia\4 semestr\Moje\Metody numeryczne\Projekt\Projekt 1\macd\macd\Debug\macd.pdb (Partial PDB)
